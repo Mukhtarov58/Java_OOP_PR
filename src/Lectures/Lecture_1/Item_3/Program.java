@@ -27,7 +27,7 @@ public class Program {
 
         // // #endregion
 
-        System.out.println();
+//        System.out.println();
         // #endregion
 
         // #region Robo2 demo
